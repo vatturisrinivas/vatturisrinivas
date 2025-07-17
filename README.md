@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/76099439-d270-4050-97e6-8bc171af6573" alt="Hello World Banner" width="100%" />
+</p>
+
 # 👋 Hi there, I'm Srinivas!
 
 I'm a passionate Software Developer who loves building meaningful products that solve real-world problems. I enjoy working across the stack and continuously learning new things.
