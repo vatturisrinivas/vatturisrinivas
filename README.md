@@ -4,8 +4,6 @@ I'm a passionate Software Developer who loves building meaningful products that 
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ### 👨‍💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -53,10 +51,10 @@ Here are some highlights from my work:
 
 ---
 
-### 🥛 [MilkMan – Milk Delivery App](https://github.com/vatturisrinivas/milkman)
-> A simple app to manage daily milk subscriptions and deliveries for customers and vendors.
+### 🥛 [MilkMan – Milk Record Tracker App](https://github.com/vatturisrinivas/milkman)
+> A lightweight app built for local milkmen to track daily milk sales and collections — with access for both sellers and buyers involved in the process.
 - Developed using Flutter and Firebase
-- Features login, subscription management, and delivery tracking
+- Features login, both side data visibility, log daily transactions, manage customer records, and monthly calculations and downloading pdf reports
 - Built with real-world usability for small businesses in mind
 
 ---
@@ -66,13 +64,12 @@ Here are some highlights from my work:
 - Built in Flutter with state management using Provider
 - Focused on clean UX and user retention features
 
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vatturisrinivas&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vatturisrinivas&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vatturisrinivas&show_icons=true&theme=radical" width="60%" />
 </p>
+
 
 ## 🤝 Let's Connect
 
