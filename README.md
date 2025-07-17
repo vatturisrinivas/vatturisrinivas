@@ -34,11 +34,6 @@ I'm a passionate Software Developer who loves building meaningful products that 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-
-## 🚀 Projects
-
-Here are some highlights from my work:
-
 ## 🚀 Projects
 
 Here are some highlights from my work:
