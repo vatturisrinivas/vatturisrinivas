@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Srinivas Vatturi!
+# 👋 Hi there, I'm Srinivas!
 
 I'm a passionate Software Developer who loves building meaningful products that solve real-world problems. I enjoy working across the stack and continuously learning new things.
 
@@ -58,12 +58,6 @@ Here are some highlights from my work:
 > A habit-tracking app designed to help users build momentum and stay consistent.
 - Built in Flutter with state management using Provider
 - Focused on clean UX and user retention features
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vatturisrinivas&show_icons=true&theme=radical" width="60%" />
-</p>
 
 
 ## 🤝 Let's Connect
