@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/76099439-d270-4050-97e6-8bc171af6573" alt="Hello World Banner" width="100%" height="200px" />
+  <img src="https://github.com/user-attachments/assets/48aa263d-80b2-45c9-b527-df0978a1c39a" alt="Hello World Banner" width="100%" height="200px" />
 </p>
 
 # 👋 Hi there, I'm Srinivas!
